@@ -1,2 +1,2 @@
 # FirebaseAndroidCrashlytics
-An example to add Firebase crashlytics in your project
+An example to add Firebase crashlytics in your Android project
