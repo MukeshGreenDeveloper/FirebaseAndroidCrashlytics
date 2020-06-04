@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "968000516983",
+    "firebase_url": "https://testproject1-190410.firebaseio.com",
+    "project_id": "testproject1-190410",
+    "storage_bucket": "testproject1-190410.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968000516983:android:e91664229a0d00474de772",
+        "android_client_info": {
+          "package_name": "com.bluetooth.crashlyticsfrebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968000516983-abdjfu0p9aptptmjfr5b913aup6nmnut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bluetooth.crashlyticsfrebase",
+            "certificate_hash": "3a215ee6460d77eb8a039fc0793983a6a6c2709a"
+          }
+        },
+        {
+          "client_id": "968000516983-iou22pk0ejdhkho07h37sd05di3q9seg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfT3fRJ92alJO2Ea3YyT-H77l6T_mkcj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968000516983-s7ahcfuath0pfttkuqobtg4ahb71bdai.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "968000516983-35d14himivdbi3p1hv7n9c5doutvbdqo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.testing.test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
